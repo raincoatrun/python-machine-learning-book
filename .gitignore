@@ -1,5 +1,9 @@
 .ipynb_checkpoints
 .DS_Store
+<<<<<<< HEAD
+=======
+code/datasets/movie/aclImdb_v1.tar.gz
+>>>>>>> rasbt/master
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

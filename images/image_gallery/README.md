@@ -1,6 +1,10 @@
 # Image Gallery
 
+<<<<<<< HEAD
 Here is a selection of the image drafts that you will find throughout the chapters.
+=======
+This is a just a selection of plots and figures as they appear in the book to provide you with a quick overview of what to expect from the book. I included higher-resolution images in the IPython notebooks along with the code examples, which can be accessed via the [Table of Contents](https://github.com/rasbt/python-machine-learning-book#table-of-contents-and-code-notebooks).
+>>>>>>> rasbt/master
 
 ## Chapter 1
 
